@@ -1,11 +1,13 @@
+/* Set background color */
 body {
     background-color: #ff99cc;
 }
 
-.site-footer .footer-content {
-    display: none;
-}
-
-.site-footer .footer-content {
-    display: none;
+/* Hide the footer */
+.site-footer .footer-col-wrapper, 
+.site-footer .footer-content, 
+.site-footer .footer-text {
+    display: none !important;
+    visibility: hidden;
+    opacity: 0;
 }
