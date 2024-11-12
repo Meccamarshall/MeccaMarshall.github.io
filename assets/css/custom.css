@@ -1,3 +1,7 @@
 body {
     background-color: #ff99cc;
 }
+
+.site-footer .footer-content {
+    display: none;
+}
