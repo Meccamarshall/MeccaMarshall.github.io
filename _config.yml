@@ -115,21 +115,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mecca Marshall"
-  avatar           : ""C:\Users\Admin\Downloads\IMG_1485.jpg""
-  bio              : "Data Analyst | Business Analyst"
-  location         : "NYC"
-  email            : "marshallmeccaa@gmail.com"
+  name: "Mecca Marshall"
+  avatar: "/assets/images/IMG_1485.jpg" # Use a relative path if the image is uploaded to the repository
+  bio: "Data Analyst | Business Analyst"
+  location: "NYC"
+  email: "marshallmeccaa@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:marshallmeccaa@gmail.com.com"
+      url: "mailto:marshallmeccaa@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      # url: "https://www.linkedin.com/in/shamecca-marshall/"
-    - label: "Github"
+      url: "https://www.linkedin.com/in/shamecca-marshall/"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/Meccamarshall"
+      url: "https://github.com/Meccamarshall"
 
 # Site Footer
 footer:
