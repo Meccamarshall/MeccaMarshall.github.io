@@ -134,13 +134,13 @@ author:
 # Site Footer
 footer:
   links:
-     - label: "Email"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:marshallmeccaa@gmail.com.com"
+      # url: "mailto:marshallmeccaa@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       # url: "https://www.linkedin.com/in/shamecca-marshall/"
-    - label: "Github"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/Meccamarshall"
 
